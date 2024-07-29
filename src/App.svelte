@@ -1,10 +1,10 @@
 <script>
   function cbosbarbarians() {
-    window.location.href = 'https://thepuppet57.141412.xyz/tps/cbos';
+    window.location.href = 'https://thepuppet57.alwaysdata.net/tps/cbos';
   }
 
   function navigateToInfo() {
-    window.location.href = 'https://thepuppet57.141412.xyz/tps/info.html';
+    window.location.href = 'https://thepuppet57.alwaysdata.net/tps/info.html';
   }
 </script>
 
